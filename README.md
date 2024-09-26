@@ -4,8 +4,6 @@
 <tr >
 
 <td valign="top">
-
-  * [Semester 5]
     * [lab1](https://github.com/MrCodeLama/Coffe)
     * [lab2](https://github.com/MrCodeLama/TouristTrips)
     * [lab3](-)
